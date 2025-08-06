@@ -73,3 +73,4 @@ dependencies:
 - Save tasks with Firestore or SQLite
 - Add animations using `flutter_animate`
 - Enable dark mode switch
+This project is a part of a hackathon run by https://www.katomaran.com
